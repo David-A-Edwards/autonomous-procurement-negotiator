@@ -1,0 +1,26 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into by and between Movera Inc. ("Client") and WeWork Global Services ("Vendor").
+
+1. SERVICES PROVIDED
+Vendor agrees to provide premium office space, janitorial services, and high-speed internet access at the agreed location for a monthly fee of $12,500.
+
+2. PAYMENT TERMS
+(a) Fees: Client shall pay all invoices within seven (7) days of receipt.
+(b) Late Fees: Any payment not received by the due date shall incur a late fee of 15% of the total outstanding balance, compounded daily.
+(c) Price Increases: Vendor reserves the right to increase the Monthly Fee by up to 20% at any time with 14 days' written notice to Client.
+
+3. TERM AND TERMINATION
+(a) Initial Term: The initial term of this Agreement shall be 24 months.
+(b) Auto-Renewal: This Agreement shall AUTOMATICALLY RENEW for successive 24-month periods unless Client provides written notice of non-renewal at least 180 days prior to the end of the current term.
+(c) Termination for Convenience: Vendor may terminate this Agreement at any time, for any reason, with 24 hours' written notice to Client. Client may NOT terminate this Agreement for convenience.
+(d) Penalty for Early Termination: If Client terminates this Agreement for cause, Client must pay a penalty equal to 100% of the remaining fees for the entire Term.
+
+4. LIABILITY AND INDEMNIFICATION
+(a) Unlimited Liability: Client agrees to indemnify, defend, and hold Vendor harmless against any and all claims, including those arising from Vendor's own negligence.
+(b) Cap on Vendor Liability: Vendor's total liability under this Agreement shall not exceed $500.00 USD.
+
+5. DATA PRIVACY
+Vendor shall have the right to monitor, inspect, and sell any data transmitted over the provided internet connection for marketing purposes.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
