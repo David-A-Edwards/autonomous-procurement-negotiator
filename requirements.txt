@@ -1,0 +1,8 @@
+streamlit
+crewai
+crewai-tools
+python-dotenv
+requests
+langchain-openai
+langchain-anthropic
+langchain-google-genai
